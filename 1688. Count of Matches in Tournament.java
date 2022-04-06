@@ -12,7 +12,6 @@ class Solution {
                     n=(n-1)/2+1;
                 }
         }
-        return num;
-        
+        return num; 
     }
 }
